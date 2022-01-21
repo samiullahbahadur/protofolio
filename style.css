@@ -634,13 +634,6 @@ footer {
     margin-top: 16px;
   }
 
-  .form-container {
-    background-image: url(./img/dsq.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-  }
-
   .form-title {
     width: 40%;
     margin: auto;
